@@ -1,8 +1,3 @@
-
-
-
-sempurnakan ini dong untuk saya tampilkan di github
-
 # Khaerul Hadiswara
 
 Manager Kedai Kopi & Roastery | Karyawan Non-ASN Bapenda Kota Tasikmalaya
